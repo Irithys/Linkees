@@ -6,6 +6,7 @@ import dribbble from '../assets/dribbble.png'
 import github from '../assets/github.png'
 import telegram from '../assets/telegram.png'
 import twitter from '../assets/twitter.png'
+import mastodon from '../assets/mastodon.webp'
 
 const items = [{
     "title": "博客",
@@ -22,7 +23,7 @@ const items = [{
 {
     "title": "Mastodom",
     "subtitle": "我的日常生活",
-    "image": github,
+    "image": mastodon,
     "link": "https://im.irithys.com/@thy"
 }
 // {
