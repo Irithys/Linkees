@@ -8,6 +8,9 @@ import telegram from '../assets/telegram.png'
 import twitter from '../assets/twitter.png'
 import mastodon from '../assets/mastodon.webp'
 import hugo from '../assets/hugo.webp'
+import matrix from '../assets/matrix.webp'
+import email from '../assets/email.webp'
+import bilibili from '../assets/bilibili.webp'
 
 const items = [{
     "title": "博客",
@@ -26,6 +29,24 @@ const items = [{
     "subtitle": "我的日常生活",
     "image": mastodon,
     "link": "https://im.irithys.com/@thy"
+},
+{
+    "title": "Matrix",
+    "subtitle": "@thy | 立刻与我取得联系！",
+    "image": matrix,
+    "link": "https://matrix.to/#/@thy:matrix.irithys.com"
+},
+{
+    "title": "Email",
+    "subtitle": "使用电子邮件📧方式联系我 ",
+    "image": email,
+    "link": "https://matrix.to/#/@thy:matrix.irithys.com"
+},
+{
+    "title": "哔哩哔哩",
+    "subtitle": "哔哩哔哩上的我，虽然只投币不发视频 ",
+    "image": bilibili,
+    "link": "https://space.bilibili.com/62011846"
 }
 // {
 //     "title": "Instagram",
@@ -57,13 +78,7 @@ const items = [{
 //     "subtitle": "@virtuonic | shots of dezigns ",
 //     "image": dribbble,
 //     "link": "https://dribbble.com/virtuonic" // Dribbble profile link 
-// },
-// {
-//     "title": "Telegram",
-//     "subtitle": "@heysagnik | Chat with me instantly ",
-//     "image": telegram,
-//     "link": "https://telegram.me/heysagnik" //Telegram Pofile 
-// }
+
 ]
 
 export default items
