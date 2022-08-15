@@ -7,11 +7,12 @@ import github from '../assets/github.png'
 import telegram from '../assets/telegram.png'
 import twitter from '../assets/twitter.png'
 import mastodon from '../assets/mastodon.webp'
+import hugo from '../assets/hugo.webp'
 
 const items = [{
     "title": "博客",
     "subtitle": "Look at my work!",
-    "image": website,
+    "image": hugo,
     "link": "https://irithys.com" //your personal website or portfolio  link
 },
 {
