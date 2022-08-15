@@ -14,13 +14,13 @@ import bilibili from '../assets/bilibili.webp'
 
 const items = [{
     "title": "博客",
-    "subtitle": "Look at my work!",
+    "subtitle": "看看最近我写了点儿什么",
     "image": hugo,
     "link": "https://irithys.com" //your personal website or portfolio  link
 },
 {
     "title": "GitHub",
-    "subtitle": "@irithys | 🏡 to all my open-source projects",
+    "subtitle": "@irithys | 🏡 代码仓库",
     "image": github,
     "link": "https://github.com/irithys" //Github Profile link
 },
@@ -40,7 +40,7 @@ const items = [{
     "title": "Email",
     "subtitle": "使用电子邮件📧方式联系我 ",
     "image": email,
-    "link": "https://matrix.to/#/@thy:matrix.irithys.com"
+    "link": "mailto:mail@irithys.com"
 },
 {
     "title": "哔哩哔哩",
