@@ -14,7 +14,7 @@ import bilibili from '../assets/bilibili.webp'
 
 const items = [{
     "title": "博客",
-    "subtitle": "看看最近我写了点儿什么",
+    "subtitle": "文章 | 最近又写了点儿什么？",
     "image": hugo,
     "link": "https://irithys.com" //your personal website or portfolio  link
 },
@@ -26,7 +26,7 @@ const items = [{
 },
 {
     "title": "Mastodom",
-    "subtitle": "我的日常生活",
+    "subtitle": "手书 | 我的日常生活",
     "image": mastodon,
     "link": "https://im.irithys.com/@thy"
 },
@@ -38,7 +38,7 @@ const items = [{
 },
 {
     "title": "Email",
-    "subtitle": "使用电子邮件📧方式联系我 ",
+    "subtitle": "向我发送电子邮件📧 ，这是最稳妥的方式",
     "image": email,
     "link": "mailto:mail@irithys.com"
 },
@@ -47,6 +47,12 @@ const items = [{
     "subtitle": "哔哩哔哩上的我，虽然只投币不发视频 ",
     "image": bilibili,
     "link": "https://space.bilibili.com/62011846"
+},
+{
+    "title": "Telegram",
+    "subtitle": "@irithys | 使用电报与我交流 ",
+    "image": telegram,
+    "link": "https://t.me/irithys"
 }
 // {
 //     "title": "Instagram",
