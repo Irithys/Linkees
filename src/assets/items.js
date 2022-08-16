@@ -11,6 +11,7 @@ import hugo from '../assets/hugo.webp'
 import matrix from '../assets/matrix.webp'
 import email from '../assets/email.webp'
 import bilibili from '../assets/bilibili.webp'
+import discord from '../assets/discord.webp'
 
 const items = [{
     "title": "博客",
@@ -38,13 +39,13 @@ const items = [{
 },
 {
     "title": "Email",
-    "subtitle": "向我发送电子邮件📧 ，这是最稳妥的方式",
+    "subtitle": "发送电子邮件📧 | 这是最稳妥的方式",
     "image": email,
     "link": "mailto:mail@irithys.com"
 },
 {
     "title": "哔哩哔哩",
-    "subtitle": "哔哩哔哩上的我，虽然只投币不发视频 ",
+    "subtitle": "哔哩哔哩 | 什么也没有",
     "image": bilibili,
     "link": "https://space.bilibili.com/62011846"
 },
@@ -53,6 +54,12 @@ const items = [{
     "subtitle": "@irithys | 使用电报与我交流 ",
     "image": telegram,
     "link": "https://t.me/irithys"
+},
+{
+    "title": "Discord",
+    "subtitle": "Discord | 玩耍聊天的地方",
+    "image": discord,
+    "link": "https://discord.com/users/764453939722190858"
 }
 // {
 //     "title": "Instagram",
