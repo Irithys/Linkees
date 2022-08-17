@@ -12,10 +12,11 @@ import matrix from '../assets/matrix.webp'
 import email from '../assets/email.webp'
 import bilibili from '../assets/bilibili.webp'
 import discord from '../assets/discord.webp'
+import steam from '../assets/steam.webp'
 
 const items = [{
     "title": "博客",
-    "subtitle": "文章 | 最近又写了点儿什么？",
+    "subtitle": "文章 | ✏️ 最近又写了点儿什么？",
     "image": hugo,
     "link": "https://irithys.com" //your personal website or portfolio  link
 },
@@ -27,39 +28,45 @@ const items = [{
 },
 {
     "title": "Mastodom",
-    "subtitle": "手书 | 我的日常生活",
+    "subtitle": "手书 | 📝 记录我的日常生活",
     "image": mastodon,
     "link": "https://im.irithys.com/@thy"
 },
 {
     "title": "Matrix",
-    "subtitle": "@thy | 立刻与我取得联系！",
+    "subtitle": "@thy | 🔗 立刻与我取得联系！",
     "image": matrix,
     "link": "https://matrix.to/#/@thy:matrix.irithys.com"
 },
 {
     "title": "Email",
-    "subtitle": "发送电子邮件📧 | 这是最稳妥的方式",
+    "subtitle": "发送电子邮件| 📧 这是最稳妥的方式",
     "image": email,
     "link": "mailto:mail@irithys.com"
 },
 {
     "title": "哔哩哔哩",
-    "subtitle": "哔哩哔哩 | 什么也没有",
+    "subtitle": "哔哩哔哩 | 🎞️ 什么也没有",
     "image": bilibili,
     "link": "https://space.bilibili.com/62011846"
 },
 {
     "title": "Telegram",
-    "subtitle": "@irithys | 使用电报与我交流 ",
+    "subtitle": "@irithys | 📟 使用电报与我交流 ",
     "image": telegram,
     "link": "https://t.me/irithys"
 },
 {
     "title": "Discord",
-    "subtitle": "Discord | 玩耍聊天的地方",
+    "subtitle": "Discord | 🪁 玩耍聊天的地方",
     "image": discord,
     "link": "https://discord.com/users/764453939722190858"
+},
+{
+    "title": "Steam",
+    "subtitle": "Steam | 🎮️ 与我一起玩游戏",
+    "image": steam,
+    "link": "https://steamcommunity.com/id/Irithys/"
 }
 // {
 //     "title": "Instagram",
