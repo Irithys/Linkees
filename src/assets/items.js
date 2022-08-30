@@ -42,7 +42,7 @@ const items = [{
     "title": "Email",
     "subtitle": "发送电子邮件| 📧 这是最稳妥的方式",
     "image": email,
-    "link": "mailto:mail@irithys.com"
+    "link": "mailto:irithys@duck.com"
 },
 {
     "title": "哔哩哔哩",
@@ -67,6 +67,12 @@ const items = [{
     "subtitle": "Steam | 🎮️ 与我一起玩游戏",
     "image": steam,
     "link": "https://steamcommunity.com/id/Irithys/"
+},
+{
+    "title": "Twitter",
+    "subtitle": "Twitter | 🐦 在推特上关注我",
+    "image": twitter,
+    "link": "https://twitter.com/irithys"
 }
 // {
 //     "title": "Instagram",
