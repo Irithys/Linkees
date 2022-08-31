@@ -44,12 +44,12 @@ const items = [{
     "image": email,
     "link": "mailto:irithys@duck.com"
 },
-{
-    "title": "哔哩哔哩",
-    "subtitle": "哔哩哔哩 | 🎞️ 什么也没有",
-    "image": bilibili,
-    "link": "https://space.bilibili.com/62011846"
-},
+// {
+//     "title": "哔哩哔哩",
+//     "subtitle": "哔哩哔哩 | 🎞️ 什么也没有",
+//     "image": bilibili,
+//     "link": "https://space.bilibili.com/"
+// },
 {
     "title": "Telegram",
     "subtitle": "@irithys | 📟 使用电报与我交流 ",
